@@ -29,7 +29,7 @@
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning Android Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2023 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
@@ -75,6 +75,6 @@
 -----
 Credits: [Shabaz](https://github.com/theshahbazanjum)
 
-Last Edited on: 16/05/2022
+Last Edited on: 18/12/2022
 
 
